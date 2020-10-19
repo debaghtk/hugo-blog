@@ -98,3 +98,18 @@ This was the kind of thrilling work which I strive and thrive on and the reason 
 ## Kernel - unfinished business
 
 > to hell with circumstances I create opportunities - Bruce Lee
+
+- problems in engineering org
+A company which has scaled rapidly in the past few years where team sizes have grown 10x, our core infra platform was lagging behind.
+
+- problems within Kernel
+Kernel took over as the core infrastructure team of Gojek in January of 2019. The idea was to build infrastructure of Gojek as a product and not simply run it as operations.
+
+- why kernel, unfinished business, was able to think of engineering in different ways
+I joined Kernel because I had some unfinished business in Gojek. My previous stint in an internal platform team was not great, the product that I owned at the time was not adopted within the org and soon found its place in the graveyard. 
+
+- started with analytics
+- came up with knowledge graph and aligned with stakeholders on that
+- knowledge graph as strategy for infra as a product
+- building delivery rhythm
+- scaling my managerial self
