@@ -99,17 +99,21 @@ This was the kind of thrilling work which I strive and thrive on and the reason 
 
 > to hell with circumstances I create opportunities - Bruce Lee
 
-- problems in engineering org
-A company which has scaled rapidly in the past few years where team sizes have grown 10x, our core infra platform was lagging behind.
+Gojek had scaled rapidly in the past few years where team sizes have grown 10x, our core infra platform was lagging behind. We were soon entering 2020 but with 2015 tech. People on the team were swamped with tickets and putting out fires all day. And were experiencing existential crisis because they had lost track of what are they building that will eventually make the Gojek world a better place.
 
-- problems within Kernel
-Kernel took over as the core infrastructure team of Gojek in January of 2019. The idea was to build infrastructure of Gojek as a product and not simply run it as operations.
+I joined Kernel because I had unfinished business in Gojek. My previous stint in an internal platform team was not great, the product that I owned at the time was not adopted within the org and soon found its place in the graveyard. That had bothered with me for a long duration because I realised that I am not able to think about engineering at bird's eye level. I contiously was assessing what I did wrong, what is currently ongoing in the org which needs to be fixed. I had spent so much time thinking about the infra platform that I just had to get my hands dirty one more time.
 
-- why kernel, unfinished business, was able to think of engineering in different ways
-I joined Kernel because I had some unfinished business in Gojek. My previous stint in an internal platform team was not great, the product that I owned at the time was not adopted within the org and soon found its place in the graveyard. 
+Kernel took over as the core infrastructure team of Gojek in January of 2019. The idea was to build infrastructure of Gojek as a product and not simply run it as operations. It had one mission statement - *to make product developers productive*
 
 - started with analytics
+I started as a lead on the analytics team within kernel at the time, because I thought a lot about why internal platforms team fail and the current problems within the state of engineering org at Gojek. There were no insights about our engineering teams and services. My belief was that such problems can be solved with good analytics and analytics is something on top of which long term engineering strategy can be defined.
+
 - came up with knowledge graph and aligned with stakeholders on that
+After working in the analytics team, I realised because of how things have been traditionally done at Gojek that everything was scattered, and I mean everything. Because of this, my team was consistently working on small stuff everyday like pulling out data to prove/disprove some hypothesis but the process of pulling out data was hard and tedious and one needs to have enough context of Gojek to pull that data out. Not everyone at the team could have done it, only if you have spent atleast 3 years within the company.
+
+So to tackle this problem, we came up with the idea of building a knowledge graph of engineering entities within 
+Gojek.
+
 - knowledge graph as strategy for infra as a product
 - building delivery rhythm
 - scaling my managerial self
