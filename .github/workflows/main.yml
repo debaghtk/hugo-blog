@@ -25,7 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: 'recursive'
 
       # Runs a single command using the runners shell
       - name: hugo
@@ -34,5 +34,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         
-      - name: build  
-        run: hugo && cd public && git add . && git commit -m "update public" && git push
+      - name: Build Hugo site and deploy
+        uses: aormsby/hugo-deploy-to-pages@v2
+        with:
+          hugo_publish_directory: 'public'
+          commit_message: 'I like big builds, and I cannot lie.'
