@@ -30,4 +30,4 @@ jobs:
         uses: klakegg/actions-hugo@1.0.0
         
       - name: build  
-        run: echo Hello, world!
+        run: hugo && cd public && git add . && git commit -m ${{ github.event.head_commit.message }} && git push
