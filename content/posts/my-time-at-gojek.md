@@ -99,7 +99,12 @@ This was the kind of thrilling work which I strive and thrive on and the reason 
 
 > to hell with circumstances I create opportunities - Bruce Lee
 
+
+I joined Kernel because I had unfinished business in Gojek. My previous stint in an internal platform team was not great, the product that I owned at the time was not adopted within the org and soon found its place in the graveyard. That had bothered with me for a long duration because I realised that I am not able to think about engineering at bird's eye level. I contiously was assessing what I did wrong, what is currently ongoing in the org which needs to be fixed. I had spent so much time thinking about the infra platform that I just had to get my hands dirty one more time.
+
 I started as a lead on the newly formed analytics team within kernel at the time, because I thought a lot about why our internal platforms team fail and the current problems within the state of engineering org at Gojek. There were no insights about our product engineering teams and services. I was (still am) a strong believer that analytics is something on top of which our engineering strategy and governance can be defined.
+
+Kernel took over as the core infrastructure team of Gojek in January of 2019. The idea was to build infrastructure of Gojek as a product and not simply run it as operations. It had one mission statement - *to make product developers productive*
 
 Gojek had scaled rapidly in the past few years where team sizes have grown 10x, our core infra platform was lagging behind. We were soon entering 2020 but with 2015 tech. People on the team were swamped with tickets and putting out fires all day. And were experiencing an existential crisis because they had lost track of what are they building that will eventually make the Gojek world a better place. While their fellow colleagues in product teams were shipping features that had a business impact with quantitative insights, folks here had no idea of what is the problem that they are solving.
 
@@ -112,9 +117,9 @@ Fixing the information fragmentation would help us in solving
 
 We called this knowledge graph and began executing on this strategy.
 
-I joined Kernel because I had unfinished business in Gojek. My previous stint in an internal platform team was not great, the product that I owned at the time was not adopted within the org and soon found its place in the graveyard. That had bothered with me for a long duration because I realised that I am not able to think about engineering at bird's eye level. I contiously was assessing what I did wrong, what is currently ongoing in the org which needs to be fixed. I had spent so much time thinking about the infra platform that I just had to get my hands dirty one more time.
+Coming to this point was not easy at all. The team suffered from lack of delivery, clarity of the problem and negativity was starting to creep in. I saw this as an oppurtunity to come up with my own ideas, sell them within the team and get them implemented. I myself had no clarity on the problem but I believed there was a problem worth solving and I knew that to make Gojek a truly great engineering company and be part of something like FAANG, the foundational infra and platform needs to be amazing. Simply based on this belief, I woke up and went to work everyday and I believed in my thought process that soon I would figure out problem statement in a way which I will be able to communicate to other folks across the org.
 
-Kernel took over as the core infrastructure team of Gojek in January of 2019. The idea was to build infrastructure of Gojek as a product and not simply run it as operations. It had one mission statement - *to make product developers productive*
+
 
 - knowledge graph as strategy for infra as a product
 - building delivery rhythm
